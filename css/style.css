@@ -26,4 +26,12 @@
 
 body {
 	font-size: var(--font-size);
+	background-color: var(--color-dark-blue);
+	color: white;
 }
+
+.seccion {
+}
+
+/*- Mobile: 375px
+- Desktop: 1440px */
