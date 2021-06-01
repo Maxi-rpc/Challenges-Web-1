@@ -63,7 +63,7 @@ body {
       rgba(204, 96, 231, 0.411),
       rgba(204, 96, 231, 0.411)
     ),
-    url("/images/image-header-desktop.jpg");
+    url("../images/image-header-desktop.jpg");
   background-size: cover;
   border-radius: 0 10px 10px 0;
   min-height: 400px;
@@ -79,7 +79,7 @@ body {
         rgba(204, 96, 231, 0.411),
         rgba(204, 96, 231, 0.411)
       ),
-      url("/images/image-header-mobile.jpg");
+      url("../images/image-header-mobile.jpg");
     background-size: cover;
     border-radius: 10px 10px 0 0;
   }
